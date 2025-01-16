@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "230587611565",
+    "project_id": "my-tasks-qa",
+    "storage_bucket": "my-tasks-qa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230587611565:android:ac3ffe0aff2efd046fc924",
+        "android_client_info": {
+          "package_name": "com.johnson.my_tasks.qa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt7qRiMDWYHfWiseqzrhhqDJNNZ9cF3dg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

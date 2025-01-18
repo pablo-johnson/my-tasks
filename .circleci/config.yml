@@ -6,7 +6,7 @@ executors:
       - image: circleci/flutter:latest
         auth:
           username: $DOCKERHUB_USERNAME
-          password: $DOCKERHUB_PASSWORD
+          password: $DOCKERHUB_TOKEN
     working_directory: ~/repo
 
 jobs:

@@ -4,6 +4,9 @@ executors:
   flutter-executor:
     docker:
       - image: circleci/flutter:latest
+        auth:
+          username: $DOCKERHUB_USERNAME
+          password: $DOCKERHUB_PASSWORD
     working_directory: ~/repo
 
 jobs:
